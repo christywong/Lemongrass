@@ -443,13 +443,13 @@ h1 {
 }
 
 .chicken{
-  background: url(../images/chicken.jpg);
+  background: url(../images/chicken.jpeg);
   background-position: center;
   background-size: 150%;
 }
 
 .tofu{
-  background: url(../images/tofu.jpg);
+  background: url(../images/tofu.jpeg);
   background-position: center;
   background-size: 110%;
 }
@@ -461,13 +461,13 @@ h1 {
 }
 
 .pork{
-  background: url(../images/pork.jpg);
+  background: url(../images/pork.jpeg);
   background-position: left center;
   background-size: 125%;
 }
 
 .salmon{
-  background: url(../images/salmon.jpg);
+  background: url(../images/salmon.jpeg);
   background-position: center;
   background-size: 150%;
 }
@@ -479,7 +479,7 @@ h1 {
 }
 
 .rice{
-  background: url(../images/rice.jpg);
+  background: url(../images/rice.jpeg);
   background-position: center top;
   background-size: 155%;
 }
