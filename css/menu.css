@@ -283,6 +283,11 @@ h1 {
     -webkit-transform: translate(0%,-20%);
       -ms-transform: translate(0%,-20%);
           transform: translate(0%,-20%);
+    margin-left: -140px;
+  }
+
+  .imgdiv .drinkmv {
+    margin-top: 50px;
   }
 
   .imgdiv .drinkflip{
@@ -355,6 +360,11 @@ h1 {
 }
 
 @media screen and (min-width:767px) {
+  .imgdiv .drinkimg{
+      margin-left: -140px;
+
+  }
+
   .carousel-caption-below > h3 {
     font-size: 3vw;
   }
