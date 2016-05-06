@@ -1,0 +1,9 @@
+# Begin Muse Generated redirects
+<IfModule mod_rewrite.c>
+	RewriteEngine on
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteRule ^([^\.]+)$ $1.html [NC,L]
+	RewriteRule ^pages/index.html$ index.php [NC,L]
+</IfModule>
+# End Muse Generated redirects
+
